@@ -1,0 +1,81 @@
+{
+
+"share": [
+
+{
+
+"name": "Popup",
+
+"popup": [
+
+{
+
+"title": "Join Our Discord Server",
+
+"content": "If You are Enjoying the Content and Our Apps Join Our Discord Server for Latest Updates",
+
+"buttontitle": "Join Discord",
+
+"link": "https://discord.gg/ATjRyPf8Tn",
+
+"requestcode": "7"
+
+}
+
+]
+
+},
+
+{
+
+"name": "Buttons",
+
+"buttons": [
+
+{
+
+"link": "https://discord.gg/ATjRyPf8Tn",
+
+"title": "Join Official StreamIndia Discord"
+
+},
+
+{
+
+"link": "https://telegram.me/OfficialStreamIndia",
+
+"title": "Join Official StreamIndia Telegram"
+
+},
+
+{
+
+"link": "https://telegram.me/wamods",
+
+"title": "Join WhatsApp Mods TG Channel"
+
+},
+
+{
+
+"link": "https://telegram.me/joinchat/AAAAAFlLAeHug8Sf6ECpuA",
+
+"title": "Join Legendary Tricks Telegram"
+
+},
+
+{
+
+"link": "https://telegram.me/joinchat/SXf49h1Yu2apaZs0",
+
+"title": "Join iNextMovies Telegram Channel"
+
+}
+
+]
+
+}
+
+]
+
+}
